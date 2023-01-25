@@ -248,43 +248,6 @@
         }
       },
       {
-        "HashCode": 766608300,
-        "Kind": "Components.Component",
-        "Name": "BlazorTodoApp.Pages.Index",
-        "AssemblyName": "BlazorTodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTodoApp.Pages.Index",
-          "Common.TypeNamespace": "BlazorTodoApp.Pages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": 1773311193,
-        "Kind": "Components.Component",
-        "Name": "BlazorTodoApp.Pages.Index",
-        "AssemblyName": "BlazorTodoApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorTodoApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorTodoApp.Pages.Index",
-          "Common.TypeNamespace": "BlazorTodoApp.Pages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -2122289309,
         "Kind": "Components.Component",
         "Name": "BlazorTodoApp.Pages.Counter",
@@ -355,6 +318,43 @@
           "Common.TypeName": "BlazorTodoApp.Pages.FetchData",
           "Common.TypeNamespace": "BlazorTodoApp.Pages",
           "Common.TypeNameIdentifier": "FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 766608300,
+        "Kind": "Components.Component",
+        "Name": "BlazorTodoApp.Pages.Index",
+        "AssemblyName": "BlazorTodoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTodoApp.Pages.Index",
+          "Common.TypeNamespace": "BlazorTodoApp.Pages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": 1773311193,
+        "Kind": "Components.Component",
+        "Name": "BlazorTodoApp.Pages.Index",
+        "AssemblyName": "BlazorTodoApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorTodoApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorTodoApp.Pages.Index",
+          "Common.TypeNamespace": "BlazorTodoApp.Pages",
+          "Common.TypeNameIdentifier": "Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
