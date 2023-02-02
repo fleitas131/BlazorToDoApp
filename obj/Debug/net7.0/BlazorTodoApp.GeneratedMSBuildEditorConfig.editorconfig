@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorTodoApp
 build_property.RootNamespace = BlazorTodoApp
-build_property.ProjectDir = C:\Users\artur\Desktop\GitHub\BlazorTodoApp\
+build_property.ProjectDir = c:\Users\artur\Desktop\GitHub\BlazorTodoApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\artur\Desktop\GitHub\BlazorTodoApp
+build_property.MSBuildProjectDirectory = c:\Users\artur\Desktop\GitHub\BlazorTodoApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/App.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/Pages/Counter.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/Pages/FetchData.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/Pages/Index.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/Shared/SurveyPrompt.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/_Imports.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/Shared/MainLayout.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t8r8uteihy
 
-[C:/Users/artur/Desktop/GitHub/BlazorTodoApp/Shared/NavMenu.razor]
+[c:/Users/artur/Desktop/GitHub/BlazorTodoApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3vy3pioyuu
